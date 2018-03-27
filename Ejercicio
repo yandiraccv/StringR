@@ -1,3 +1,0 @@
-#1. Lectura de paquetes
-library(stringr)
-library(readxl)
